@@ -1,3 +1,4 @@
+[
 {
   "name": "w",
   "email": "hjalletestballe@gmail.com",
@@ -5,4 +6,21 @@
   "timestampStart": "2",
   "timestampEnd": "2",
   "details": "ads"
-}
+},
+  
+  {
+    "name": "John Doe",
+    "song": "Song Name",
+    "timestampStart": "45",
+    "timestampEnd": "70",
+    "details": "Some details about the feature."
+  },
+  {
+    "name": "Jane Smith",
+    "song": "Another Song",
+    "timestampStart": "30",
+    "timestampEnd": "90",
+    "details": "Other feature details."
+  }
+]
+
